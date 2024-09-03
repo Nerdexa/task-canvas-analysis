@@ -3,5 +3,29 @@
 version = 3
 
 [[package]]
+name = "domain"
+version = "0.1.0"
+
+[[package]]
+name = "driver"
+version = "0.1.0"
+
+[[package]]
+name = "gateway"
+version = "0.1.0"
+
+[[package]]
+name = "port"
+version = "0.1.0"
+
+[[package]]
+name = "rest"
+version = "0.1.0"
+
+[[package]]
 name = "task-canvas-analysis"
+version = "0.1.0"
+
+[[package]]
+name = "usecase"
 version = "0.1.0"
