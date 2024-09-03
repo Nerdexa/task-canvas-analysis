@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+
+# Internal
+usecase = { path = "../usecase" }
+domain = { path = "../domain" }
+gateway = { path = "../gateway" }
